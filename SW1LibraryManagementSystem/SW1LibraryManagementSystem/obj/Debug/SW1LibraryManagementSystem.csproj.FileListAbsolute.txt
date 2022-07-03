@@ -1,0 +1,7 @@
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\bin\Debug\SW1LibraryManagementSystem.exe.config
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\bin\Debug\SW1LibraryManagementSystem.exe
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\bin\Debug\SW1LibraryManagementSystem.pdb
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\obj\Debug\SW1LibraryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\obj\Debug\SW1LibraryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\obj\Debug\SW1LibraryManagementSystem.exe
+C:\Users\mathu\source\repos\SW1LibraryManagementSystem\SW1LibraryManagementSystem\obj\Debug\SW1LibraryManagementSystem.pdb

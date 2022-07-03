@@ -1,0 +1,11 @@
+ConsoleTitle:Library Management System
+
+BackgroundColor:bLue
+TextColor:White
+LibraryName:Seven Star Library
+UserName:Admin
+Password:123456
+PasswordFailureAttempt:5
+AllowedPeriod:3
+NumberOfBooksAllowed:3
+FineAmount:5.00
